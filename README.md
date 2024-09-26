@@ -6,6 +6,9 @@ A display provides real time feedback on temperature and system status, controll
 
 The work has been completed, including the design, assembly, and coding. The entire structure, consisting of 3D printed components and the integration of sensors, has been successfully assembled. The cooling and tracking functions are operational, and the servo motor for LED movement works as expected.
 
+# CAD view
+![image](https://github.com/user-attachments/assets/28aa7a01-f3b0-417f-9126-27b27279c862)
+
 # Datasheet
 ![image](https://github.com/user-attachments/assets/90781870-a4e7-49f1-87d2-668aedb473ef)
 ![image](https://github.com/user-attachments/assets/33f85b88-8efa-4f89-9775-48d110ec9bea)
