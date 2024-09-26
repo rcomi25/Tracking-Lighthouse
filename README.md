@@ -19,3 +19,7 @@ The work has been completed, including the design, assembly, and coding. The ent
 
 # Cable routing
 ![image](https://github.com/user-attachments/assets/0d5c1c49-06d4-4277-9a51-e8e8bc79cc39)
+
+# Demo video
+https://github.com/user-attachments/assets/3f167458-da7f-4c06-b326-94cf4d371176
+
